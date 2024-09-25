@@ -82,6 +82,7 @@ fun SignUpPasswordScreen(
     Column(
         modifier = Modifier
             .fillMaxSize()
+            .imePadding()
             .background(color = Color.White)
             .padding(16.dp),
         verticalArrangement = Arrangement.SpaceBetween,
