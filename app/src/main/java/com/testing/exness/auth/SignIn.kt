@@ -91,6 +91,7 @@ fun SignIn(
     Column(
         modifier = Modifier
             .fillMaxSize()
+            .imePadding()
             .verticalScroll(rememberScrollState())
             .background(color = Color.White),
         verticalArrangement = Arrangement.SpaceBetween,
