@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56082197210",
+    "project_id": "exness-b7df1",
+    "storage_bucket": "exness-b7df1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56082197210:android:84ea914f3fceba6db0d3e3",
+        "android_client_info": {
+          "package_name": "com.testing.exness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARaWX2p9sEGKYReg_oMPUsLtzp3upvsLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
